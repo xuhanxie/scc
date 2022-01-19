@@ -1,9 +1,9 @@
 # Inventory Tracking System
 For Shopify backend developer intern challenge - Summer 2022
 
-Name:
+Name: Xuhan Xie
 
-E-mail:
+E-mail: xuhanxie@outlook.com
 
 ## Implemented functions
 - basic CRUD
